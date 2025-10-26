@@ -1,0 +1,12 @@
+emby:
+  server_url: "https://your-emby-server.com"  # 替换为你的 Emby 服务器地址
+
+server:
+  port: 52143
+
+domains:
+  - name: "Server 1"
+    url: "https://server1.example.com"
+  - name: "Server 2"
+    url: "https://server2.example.com"
+  # 可以添加更多服务器
